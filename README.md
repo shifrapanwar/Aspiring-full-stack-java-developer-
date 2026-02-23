@@ -1,59 +1,63 @@
-# Aspiring-full-stack-java-developer-
-# 💻 Software Development & Data Skills Portfolio
+# 💻 Aspiring Full Stack Java Developer
 
 ## 👋 About Me
-I am an **Aspiring Full Stack Java Developer** with hands-on knowledge of **Python, Core Java, Excel, Power BI, and Microsoft tools**.  
-Currently, I am learning **Full Stack Java development** and continuously improving my technical and problem-solving skills.
+I am an **Aspiring Full Stack Java Developer** with strong knowledge of **Core Java, SQL, Excel, Power BI, and Microsoft tools**.
 
-I am passionate about software development, data handling, and building real-world applications.
+Currently, I am focused on mastering **Full Stack Java Development** and continuously improving my programming and problem-solving skills.
+
+I am passionate about building real-world web applications and growing as a professional software developer.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔹 Programming Languages
-- Python  
+### 🔹 Programming Language
 - Core Java  
 
-### 🔹 Full Stack (Learning)
+### 🔹 Full Stack Java (Learning)
 - Java  
 - JDBC  
-- Servlets  
-- JSP  
-- Spring / Spring Boot (Learning)
-- HTML, CSS, JavaScript  
+- Servlets (Learning)  
+- JSP (Learning)  
+- Spring (Learning)  
+- Spring Boot (Learning)  
+- HTML
+- CSS  
+- JavaScript (Learning)  
+- Git & GitHub  
 
-### 🔹 Data & Analytics Tools
-- Microsoft Excel (Advanced)
-- Power BI
-- SQL
+### 🔹 Database
+- SQL  
+- MySQL  
+
+### 🔹 Data & Reporting Tools
+- Microsoft Excel (Advanced)  
+- Power BI  
 
 ### 🔹 Microsoft Tools
-- MS Excel
-- MS Word
-- MS PowerPoint
-- MS Outlook
+- MS Excel  
+- MS Word  
+- MS PowerPoint  
+- MS Outlook  
 
 ---
 
-## 📊 What I Have Worked On
-- Python basic programs and logic building
-- Core Java concepts (OOPs, classes, objects, inheritance, exception handling)
-- Excel functions (IF, VLOOKUP/XLOOKUP, INDEX, Pivot Tables)
-- Power BI dashboards and reports
-- SQL queries (joins, subqueries, aggregation)
+## 📊 Projects & Practice Work
+- Developed Java console-based applications using OOP concepts  
+- Worked on Core Java concepts (OOPs, inheritance, polymorphism, abstraction, exception handling)  
+- Practiced SQL queries (joins, subqueries, aggregation functions)  
+- Created dashboards and reports using Excel and Power BI  
 
 ---
 
 ## 🌱 Currently Learning
-- Full Stack Java Development
-- Backend development using Java
-- Frontend technologies
-- Git & GitHub for version control
+- Full Stack Java Development  
+- Backend development using Java  
+- Frontend technologies  
+- REST APIs  
+- Version control using Git & GitHub  
 
 ---
 
 ## 🎯 Career Objective
-To start my career as a **Full Stack Java Developer**, where I can apply my programming skills, learn from real-world projects, and grow as a software professional.
-
----
+To begin my career as a **Full Stack Java Developer**, where I can apply my Java programming skills, contribute to real-world projects, continuously learn modern technologies, and grow into a skilled software professional.
